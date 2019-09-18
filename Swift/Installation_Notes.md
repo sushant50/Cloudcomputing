@@ -52,3 +52,10 @@ Tasks for Swift
        ~~python setup.py install~~
        
 18. `pip install swauth`
+
+19. `mkdir /etc/swift
+
+20. `yum install openssh-server
+
+21. `yum install git-core
+
