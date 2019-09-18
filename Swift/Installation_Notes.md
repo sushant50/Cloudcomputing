@@ -45,7 +45,7 @@ Tasks for Swift
 
         python setup.py install
 
-17. ~~~wget "https://github.com/downloads/gholt/swauth/swauth-lucid-build-1.0.2-1.tgz"~~
+17. ~~wget "https://github.com/downloads/gholt/swauth/swauth-lucid-build-1.0.2-1.tgz"~~
 
  ~~python setup.py build~~
 
