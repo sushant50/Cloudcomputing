@@ -59,3 +59,22 @@ Tasks for Swift
 
 21. `yum install git-core`
 
+22. `vi /etc/swift/swift.conf`
+
+23. [swift-hash]
+
+
+    swift_hash_path_suffix = `od -t x8 -N 8 -A n </dev/random` 
+    
+24. `cd /etc/swift/`
+
+25. `openssl req -new -x509 -nodes -out cert.crt -keyout cert.key`
+
+26. `service memcached restart`
+
+27. `ps -aux | grep mem`
+
+28. `easy_install netifaces`
+
+29. `vi /etc/swift/proxy-server.conf
+`
