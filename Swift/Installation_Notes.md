@@ -35,7 +35,6 @@ Tasks for Swift
 
       ~~python setup.py install
 
-
 16. wget "https://launchpad.net/swift/essex/1.4.8/+download/swift-1.4.8.tar.gz"
 
         tar -xvf swift-1.4.8 
@@ -52,5 +51,4 @@ Tasks for Swift
 
        ~~python setup.py install~~
        
-
 18. `pip install swauth`
