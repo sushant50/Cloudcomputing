@@ -77,4 +77,5 @@ Tasks for Swift
 28. `easy_install netifaces`
 
 29. `vi /etc/swift/proxy-server.conf
-`
+
+Proceed with step 20 (file edit) and further at https://wiki.openstack.org/wiki/InstallInstructions/Swift/CentOS
