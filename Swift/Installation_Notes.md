@@ -23,11 +23,11 @@ Tasks for Swift
 
 11. ~~install xattr-0.6.2.tar.gz, python setup.py build, python setup.py install~~
 
-12. pip install xattr
+12. `pip install xattr`
 
 13. ~~install coverage-3.5.1.tar.gz, python setup.py build, python setup.py install~~
 
-14. pip install coverage
+14. `pip install coverage`
 
 15. ~~wget "http://www.openstack.org/projects/storage/latest-release/"~~
 
@@ -53,9 +53,9 @@ Tasks for Swift
        
 18. `pip install swauth`
 
-19. `mkdir /etc/swift
+19. `mkdir /etc/swift`
 
-20. `yum install openssh-server
+20. `yum install openssh-server`
 
-21. `yum install git-core
+21. `yum install git-core`
 
