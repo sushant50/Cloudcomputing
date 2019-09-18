@@ -47,8 +47,8 @@ Tasks for Swift
 
 17. ~~wget "https://github.com/downloads/gholt/swauth/swauth-lucid-build-1.0.2-1.tgz"~~
 
- ~~python setup.py build~~
+        ~~python setup.py build~~
 
- ~~python setup.py install~~
+        ~~python setup.py install~~
        
 18. `pip install swauth`
